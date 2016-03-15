@@ -1,0 +1,65 @@
+﻿CHƯƠNG I:
+KHẢO SÁT HIỆN TRẠNG CỦA HỆ THỐNG VÀ XÁC LẬP DỰ ÁN
+
+I. Khảo sát hiện trạng
+1.1. Nhiệm vụ chung của hệ thống
+	Hệ thống quản lý kho hàng của công ty Phát Hòa-Đại lý vật liệu xây dựng thực hiện một số nhiệm vụ xuyên suốt từ khâu nhập hàng, xuất hàng đến khâu thống kê báo cáo và đánh giá tình hình tồn kho.
+	Cân đối được lượng vật tư tồn kho với kế hoạch sản xuất nhằm đưa ra những quyết định kịp thời, chính xác phục vụ cho quá trình sản xuất và phân phối hàng hóa.
+	Báo cáo thống kê và truy vấn dễ dàng theo tất cả các chỉ tiêu có trong cơ sơ dữ liệu.
+1.2. Cơ cấu tổ chức và chức năng nhiệm vụ của cơ quan/công ty
+ 
+Quan hệ quản lý kinh doanh: 	
+Quan hệ phối hợp: 
+1.3. Quy trình xử lý
+1.3.1. Quy trình nhập hàng
+	Khi nhận được thông báo của nhà cung cấp về việc nhập hàng, phòng mua hàng lập một bản tiến độ mua hàng. Tiến độ nhập hàng được lập theo biểu mẫu đính kèm quy định này.
+	Tiến độ nhập hàng được chuyển cho phòng mua hàng, kho biết để chủ động sắp xếp công việc, xác định tiến độ giao hàng cho khách.
+	Khi hàng nhập kho, hàng phải được kiển tra chất lượng, số lượng hàng hóa.
+Thủ kho tiến hành lập biên bản kiểm tra hàng hoá, biên bản có chữ ký xác nhận của thủ kho, nhà cung cấp, phòng cung ứng.
+	Nếu hàng không đạt đúng theo thỏa thuận, phòng cung ứng phỉ làm việc với nhà cung cấp giao hàng lại theo đúng hượp đồng.
+	Trường hợp hàng hóa đạt yêu cầu thì tiến hành nhập kho. Thủ kho lập phiếu nhập kho, phiếu nhập kho phải được chuyển cho phòng kế toán, phong cung ứng, phòng bán hàng.
+	Hàng hóa được sắp xếp theo bảng hướng dẫn lưu kho và hướng dẫn công việc cho nhân viên kho.
+Thủ kho tiến hành lưu hồ sơ hàng nhập. Sau khi hàng hóa đã được nhập vào kho, thủ kho ghi đầy đủ nội dung vào thẻ kho. Thẻ kho ghi nội dung hàng hóa nhập và xuất theo thứ tự thời gian.
+1.3.2. Quy trình xuất hàng
+	Nhân viên quản trị hàng hóa tập hợp tất cả các phiếu yêu cầu xuất hàng. Xác nhận phiếu yêu cầu xuất. Nhân viên giao nhận sẽ nhận phiếu xuất hàng và nhận hàng tại kho.
+		Thủ kho căn cứ vào các yêu cầu xuất kho kiểm tra các hàng yêu cầu có còn tại kho hay không. Nếu còn thì xuất hang theo yêu cầu, nếu các hàng yêu cầu hết thì thủ kho tiến hành báo cáo nhân viên quản trị hàng và chờ quyết định của nhân viên quản trị.
+		Nhân viên giao nhận liên hệ kế toán xuất hóa đơn đảm bảo về tên sản phẩm, số lượng,  đơn giá, thành tiền, tổng tiền, mã hóa đơn, chữ ký….
+1.3.3. Quy trình lập đề nghị thanh toán
+	Nhà cung cấp gửi hóa đơn tài chính cho bộ phân quản lý kho.
+Thủ kho tiếp nhận, tổng hợp các hóa đơn nhập hàng từ nhà cung cấp, tiến hành đối chiếu kiểm tra và lập đề nghị thanh toán gửi đến bộ phận kết toán. 
+Bộ phận kế toán kiểm tra đối chiếu hóa đơn và lập giấy ủy quyền gửi cho ban lãnh đạo xác nhận phiếu chi và gửi đến bộ phận tài chính và thực hiện thanh toán.
+1.3.4. Quy trình báo cáo thống kê
+		Bộ phận kế toán gửi yêu cầu báo cáo nhập, báo cáo tổn thất hằng ngày đến bộ phận quản lý kho. 
+Thủ kho tổng hợp sổ giao nhận hàng và các biên bản báo hỏng và lập báo cáo gửi về cho bộ phận kế toán, đồng thời gửi cho ban lãnh đạo. Bộ phận quản lý kho có nhiệm vụ báo cáo định kỳ hàng nhập xuất, hàng tồn kho.
+
+1.4. Quy tắc quản lý
+Trong hệ thống quản lý, các đơn vị quản lý phải tổ chức lực lượng duy trig, đảm bảo an toàn hoạt động của kho (xuất, nhập hàng, vận chuyển, sắp xếp hàng trật tự, kiểm tra, bảo quản hàng lưu giữ trong kho…).
+Khi nhập hàng, phải đúng theo yêu cầu của công ty về số lượng, chất lượng và tiến độ.
+Mỗi bộ phận phải kiểm tra đầy đủ, chính xác các thông tin trong các hóa đơn, phiếu nhập, phiếu xuất… tránh thất thoát, sai lệch thông tin.
+II. Xác lập dự án
+2.1. Hạn chế của HT hiện tại 
+Mục này cần nêu ra các hạn chế sau:
+- Thiếu sót: chức năng, người thực hiện, người quản lý, phương tiện xử lý,…
+- Kém hiệu lực, quá tải: phương pháp xử lý không chặt chẽ, cơ cấu tổ chức không hợp lý, lưu chuyển các thông tin không hợp lý, xảy ra ùn tắc thông tin
+		- Tổn phí cao, gây lãng phí.
+2.2. Yêu cầu (mục tiêu) của hệ thống mới:
+Mục này đưa ra các mục tiêu của hệ thống mới, mục tiêu đó phải:
+		- Thỏa đáng các thông tin chưa được đáp ứng.
+		- Đáp ứng các nguyện vọng của nhân viên.
+		- Dự kiến kế hoạch phát triển của chủ đầu tư (đề xuất).
+2.3. Các giải pháp và tính khả thi
+Mục này đưa ra các giải pháp để thực hiện mục tiêu đặt ra ở trên. Đưa ra nhiều giải pháp càng tốt. Mỗi giải pháp đi kèm với sự phân tích tính khả thi của nó. Chọn giải pháp nào có tính khả thi nhất.
+III. Phạm vi và hạn chế của dự án 
+3.1. Phạm vi
+3.2. Hạn chế 
+IV. Kế hoạch triển khai dự án 
+4.1. Dự kiến 
+Hệ thống quản lý nhà kho là một hệ thống không thể thiếu và có vai trò then chốt trong các hoạt động kinh doanh, sản xuất... của các công ty, xí nghiệp, nhất là trong thời đại công nghệ thông tin phát triển đáng kể. Vì vậy, trong tương lai, hi vọng hệ thống sẽ được ứng dụng rộng rãi, giúp cho con người tiết kiệm được thời gian, công sức…
+4.2. Kế hoạch triển khai dự án 
+	4.2.1. Bảng phân công nhiệm vụ và tiến độ thực hiện
+16/2/2016 -> 29/2/2016: khảo sát
+1/3/2016 ->16/3/2016: phân tích chức năng hệ thống
+17/3/2016 ->30/3/2016: Phân tích, thiết kế dữ liệu
+1/4/2016 ->30/4/2016: Lập trình phần mềm
+1/5/2016: Triển khai, thực hiện
+	4.2.3. Kinh phí phát triển HT
